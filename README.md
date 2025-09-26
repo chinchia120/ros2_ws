@@ -4,7 +4,7 @@
 **Author**: Chin-Chia, Hsu, POINT Lab, Geomatics NCKU, Taiwan
 
 ## Overview
-For 114-1 Positioning, Navigation and Timing Technologies: Theory and Application
+For 114-1 PNT Lab
 
 ## ROS2 Packages
 ### examples
